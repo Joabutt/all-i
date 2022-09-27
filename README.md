@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/2289/188992670-3dc9db47-fb8e-45c1-85ee
 - [Replicate](https://replicate.com/), a platform for running machine learning models in the cloud.
 - [Stable Diffusion](https://replicate.com/stability-ai/stable-diffusion), an open-source text-to-image generation model.
 - Next.js [server-side API routes](pages/api) for talking to the Replicate API
-- Next.js React components for the inpainting GUI
+- Next.js React components for the GUI
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Lucide](https://lucide.dev/) for Icons
 
